@@ -29,6 +29,6 @@ This repository contains the final project for a demography course (UW STAT563),
 
 This project explores a Bayesian approach for mortality forecasting using the APCI model, incorporating overdispersion to enhance model accuracy. A comparative analysis is conducted against the widely used Lee-Carter Cohort (LCC) model, emphasizing the mathematical relationships between model parameters and the selection of appropriate prior distributions. The Laplace distribution is validated as an optimal prior through simulated density functions.
 
-The APCI model demonstrates superior performance both computationally and in fitting mortality data for females in England and Wales. Additionally, robustness to potential time series misspecifications is addressed by applying two ARIMA models (random walk and AR(1)) to the time-dependent parameter \\(\kappa_t\\), combined using Bayesian model averaging based on posterior probabilities.
+The APCI model demonstrates superior performance both computationally and in fitting mortality data for females in England and Wales. Additionally, robustness to potential time series misspecifications is addressed by applying two ARIMA models (random walk and AR(1)) to the time-dependent parameter, combined using Bayesian model averaging based on posterior probabilities.
 
 The same analytical framework is extended to USA mortality data, estimating crude mortality rates and projecting life expectancy under different model assumptions.
