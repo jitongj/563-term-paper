@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the final project for a demography course (UW STATS566), focusing on Bayesian model comparison techniques for mortality forecasting. The analysis is based on the methodological framework introduced by Wong, Forster, and Smith (2023; *Journal of the Royal Statistical Society Series C: Applied Statistics*, [https://doi.org/10.1093/jrsssc/qlad021](https://doi.org/10.1093/jrsssc/qlad021)), specifically utilizing the Age-Period-Cohort-Improvement (APCI) model with overdispersion.
+This repository contains the final project for a demography course (UW STATS563), focusing on Bayesian model comparison techniques for mortality forecasting. The analysis is based on the methodological framework introduced by Wong, Forster, and Smith (2023; *Journal of the Royal Statistical Society Series C: Applied Statistics*, [https://doi.org/10.1093/jrsssc/qlad021](https://doi.org/10.1093/jrsssc/qlad021)), specifically utilizing the Age-Period-Cohort-Improvement (APCI) model with overdispersion.
 
 
 ## Data Description
