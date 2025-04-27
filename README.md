@@ -32,7 +32,3 @@ This project explores a Bayesian approach for mortality forecasting using the AP
 The APCI model demonstrates superior performance both computationally and in fitting mortality data for females in England and Wales. Additionally, robustness to potential time series misspecifications is addressed by applying two ARIMA models (random walk and AR(1)) to the time-dependent parameter \\(\kappa_t\\), combined using Bayesian model averaging based on posterior probabilities.
 
 The same analytical framework is extended to USA mortality data, estimating crude mortality rates and projecting life expectancy under different model assumptions.
-
-## Reference
-- Wong, J. S. T., Forster, J. J., & Smith, P. W. (2023). Bayesian model comparison for mortality forecasting. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 72(3), 566–586. [https://doi.org/10.1093/jrsssc/qlad021](https://doi.org/10.1093/jrsssc/qlad021)
-
